@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Welcome to My Digital Garden"
+tags: TeXt
 date:   2025-01-05 16:24:52 -0600
 categories: jekyll update
 ---

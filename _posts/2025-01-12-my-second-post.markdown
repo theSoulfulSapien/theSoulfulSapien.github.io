@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "The Power of Static Site Generators"
+tags: TeXt
 date:   2025-01-12 10:00:00 -0600
 categories: web development jekyll
 ---
