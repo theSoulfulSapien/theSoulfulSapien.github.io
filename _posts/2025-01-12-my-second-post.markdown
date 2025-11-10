@@ -1,8 +1,8 @@
 ---
-title:  "The Power of Static Site Generators"
-tags: TeXt
-date:   2025-01-12 10:00:00 -0600
-categories: web development jekyll
+layout: post
+title: "The Power of Static Site Generators"
+date: 2025-01-12 10:00:00 -0600
+categories: [web, development, jekyll]
 ---
 
 In my first post, I mentioned that this blog is built with Jekyll, a static site generator. But what exactly is a static site generator, and why would you want to use one?

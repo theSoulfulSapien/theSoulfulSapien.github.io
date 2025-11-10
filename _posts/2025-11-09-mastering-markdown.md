@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Mastering Markdown"
-tags: TeXt
 date: 2025-11-08 11:00:00 -0600
-categories: writing jekyll
+categories: [writing, jekyll]
 tags: [markdown, text, formatting]
 ---
 

@@ -1,8 +1,8 @@
 ---
-title:  "Welcome to My Digital Garden"
-tags: TeXt
-date:   2025-01-05 16:24:52 -0600
-categories: jekyll update
+layout: post
+title: "Welcome to My Digital Garden"
+date: 2025-01-05 16:24:52 -0600
+categories: [jekyll, update]
 ---
 Welcome to my new blog! This is the first post in what I hope will be a long and fruitful journey of exploration and learning. I'm excited to have you here with me.
 
